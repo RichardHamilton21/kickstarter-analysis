@@ -1,4 +1,4 @@
-# Hickstarter Written Analysis
+# Kickstarter Written Analysis
 
 Overview of Project
 
